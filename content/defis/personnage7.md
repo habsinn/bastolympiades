@@ -4,7 +4,7 @@ title = "Personnage 7, en attente"
 draft = false
 image = "img/portfolio/.jpg"
 showonlyimage = false
-weight = 1
+weight = 8
 +++
 Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :
 <!--more-->

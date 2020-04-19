@@ -4,7 +4,7 @@ title = "Berbèr'Arbitre"
 draft = false
 image = "berberarbitre.jpg"
 showonlyimage = false
-weight = 1
+weight = 6
 +++
 Le Berbèr' Aribitre se propose de défier les talents artistico-martiaux du Bast', connu pour son agilité, sa force et son sens de l'équilibre légendaire. Mais saura-t-il rester sphère pour ne pas se faire embobiner...
 <!--more-->

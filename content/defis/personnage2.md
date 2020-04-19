@@ -4,7 +4,7 @@ title = "Mannaz est prêt!"
 draft = false
 image = "mannaz.jpg"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 Mannaz est l'homme fort qui lance le défi d'un parcours essouflant aux poumons de Bast' le Gitan d'Or...
 <!--more-->

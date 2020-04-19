@@ -4,7 +4,7 @@ title = "mahatmamie est prête!"
 draft = false
 image = "mahatmamie.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 Mahatmamie descend tout droit des monts indiens où elle a pratiqué les techniques yogi pendant plus de 1111 ans, pour humilier le jeune Bast' qui rêve du vide suprême...
 <!--more-->

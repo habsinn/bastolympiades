@@ -4,7 +4,7 @@ title = "Don Farido est prêt !"
 draft = false
 image = "donfarido.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 Don Farido est prêt à défier la vue et l'ordorat de l'alter ego latino du Bast'! Celui que d'aucuns nomment : Don Bastiano...

@@ -4,7 +4,7 @@ title = "Beni Bros"
 draft = false
 image = "benibros.jpg"
 showonlyimage = false
-weight = 1
+weight = 4
 +++
 Beni Bros veut mettre le Bast'fasse à la mort en le mettant au défi de creuser son trou plus vite que l'autre pour prouver qu'il n'a vraiment peur de rien-de-chez-rien...
 <!--more-->
