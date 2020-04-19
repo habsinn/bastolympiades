@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "red"
   description = "Bast'Olympiades , Marti 21 Abril de l'an 202020 à la Cité Multiple de La Digue"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "Copyleft: Digue House Party Enterprise | An 202020 "
   sidebarAbout = [
     "Bast'Olympiades , Marti 21 Abril de l'an 202020 à la Cité Multiple de La Digue",
     "10 Personnages et 10 Défis pour que le chevalier Bast' le Gitan d'Or délivre sa Princesse de nulle part."
