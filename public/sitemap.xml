@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/defis/bienvenue/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/defis/donfarido/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
@@ -58,13 +63,8 @@
   </url>
   
   <url>
-    <loc>/kesako/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>

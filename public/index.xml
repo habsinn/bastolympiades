@@ -6,10 +6,20 @@
     <description>Recent content on Bast&#39;Olympiades</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bienvenue aux Bast&#39;Olympiades</title>
+      <link>/defis/bienvenue/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/defis/bienvenue/</guid>
+      <description>&lt;p&gt;Sur les terres de la Cité Multiple de la Digue,
+un peuple naît&amp;hellip;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Don Farido est prêt !</title>
@@ -26,16 +36,16 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage10/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Personnage 11, en attente</title>
+      <title>Personnage 11, en attente...</title>
       <link>/defis/personnage11/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage11/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez et remplissez les champs) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +54,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage2/</guid>
-      <description>&lt;p&gt;Don Farido est prêt à défier la vue et l&amp;rsquo;ordorat de l&amp;rsquo;alter ego latino du Bast&amp;rsquo;! Celui que d&amp;rsquo;aucuns nomment : Don Bastiano&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +63,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage3/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,7 +72,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage4/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,7 +81,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage5/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -80,7 +90,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage6/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,7 +99,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage7/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -98,7 +108,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage8/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -107,7 +117,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/defis/personnage9/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :&lt;/p&gt;</description>
     </item>
     
   </channel>
