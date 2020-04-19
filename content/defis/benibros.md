@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Beni Bros"
+title = "Beni Bros est prêt!"
 draft = false
 image = "benibros.jpg"
 showonlyimage = false
