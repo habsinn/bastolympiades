@@ -1,22 +1,18 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Personnage 3, en attente"
+title = "Beni Bros"
 draft = false
-image = "img/portfolio/.jpg"
+image = "benibros.jpg"
 showonlyimage = false
 weight = 1
 +++
-Conseils de recherche pour votre défi (cliquez ci-dessus, puis lisez) :
+Beni Bros veut mettre le Bast'fasse à la mort en le mettant au défi de creuser son trou plus vite que l'autre pour prouver qu'il n'a vraiment peur de rien-de-chez-rien...
 <!--more-->
 
 #### Défi:
 
-- **TITRE DU DÉFI**: *(si vous n'en trouvez pas, pas de panique, quelqu'un d'autre vous en dégotera un)*
-- **VOS RÈGLES**: *(obligatoires! Choisissez une épreuve à laquelle vous pouvez tous les deux être bons. Vos règles seront ensuite éventuellement adaptées selon les déséquilibres constatés en direct par le Berbèr'Arbitre, afin que le suspens demeure pour le plaisir du public...)*
-- **LIEU CHOISI**: *(Important: quelque part dans la Cité Multiple de la Digue, il doit comprendre un espace pour votre épreuve face au Bast', et un espace suffisant pour accueillir votre public : 11 personnages en tout. À noter qu'il pleuvra mardi. Mais si le coeur vous en dit, qu'importe la pluie : la procession de joueurs, si elle a l'âme assez téméraire, se mouillera pour être votre public lors de votre défi en plein air! Le Berbèr'Arbitre lui, s'engage d'ores et déjà à vous suivre partout où c'est personnagement accessible...)*
-- **VOTRE ACCOUTREMENT**: *(de multiples talents se cachent dans le voisinage de la Digue pour vous aider à constituer votre plus belle tenue et vos plus beaux traits maquillés. Songez à demander de l'aide, que le coeur vous en dise...ou non...)*
-- **PHOTO PORTRAIT** : *(de votre choix. Si vous n'en trouvez pas, pas de panique, le Berbèr'Arbitre en dégotera une pour vous...)*
+- **TITRE DU DÉFI**: "Butte-toi !"
+- **VOS RÈGLES**: pendant un temps limité, celui des deux qui creusera un trou plus profondément que l'autre en remportant un maximum de points, remportera ce défi. Selon l'outil choisi et sa difficulté d'usage, le nombre de points gagnés par centimètre creusé augmente...
+- **LIEU CHOISI**: au fond jardin, manoir 3 de la Cité Multiple de la Digue
+- **VOTRE ACCOUTREMENT**: Mario Bros mais moins soigné et à la retraite
 
-#### Date de remise:
-**Au plus tard, ce soir Dimanffe 19 de l'an 202020 à Mimuit.**  
-Envoyez vos réponses (titre du défi, vos règles, lieu choisi, votre accoutrement, photo portrait) votre à l'adresse suivante: **berberarbitre@yopmail.com**
