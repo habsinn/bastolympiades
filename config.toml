@@ -46,11 +46,10 @@ googleAnalytics = ""
   url = "defis/"
   home = true
 
-  [[params.navlinks]]
-  name = "RDV Mardi à 16h16 pétantes"
-  url = "kesako/"
 
 
   [params.social]
   email         = "habib.belaribi@aquilenet.fr"
+
+
 
