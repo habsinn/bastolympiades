@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Beni Bros est prêt!"
+title = "Beni Bros est prêt -->"
 draft = false
 image = "benibros.jpg"
 showonlyimage = false
@@ -11,7 +11,7 @@ Beni Bros veut mettre le Bast'fasse à la mort en le mettant au défi de creuser
 
 #### Défi:
 
-- **TITRE DU DÉFI**: "Butte-toi !"
+- **TITRE DU DÉFI**: "Les couleurs de la vie"
 - **VOS RÈGLES**: pendant un temps limité, celui des deux qui creusera un trou plus profondément que l'autre en remportant un maximum de points, remportera ce défi. Selon l'outil choisi et sa difficulté d'usage, le nombre de points gagnés par centimètre creusé augmente...
 - **LIEU CHOISI**: au fond jardin, manoir 3 de la Cité Multiple de la Digue
 - **VOTRE ACCOUTREMENT**: Mario Bros mais moins soigné et à la retraite
