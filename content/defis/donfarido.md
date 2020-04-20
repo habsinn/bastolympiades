@@ -12,10 +12,9 @@ Don Farido est prêt à défier la vue et l'ordorat de l'alter ego latino du Bas
 
 ## Défi
 
-- **Titre**:  "De poudres et de balles!"   
-- **Règles du jeu**: un bière-pong, entrecoupé d'une épreuve à bonus les yeux bandés "devine mon épice mon coquin...!"  
-- **Durée maximum** : comptez 5 minutes (si le public est en liesse,le Berbère Arbitre pourra choisir de prolonger légèrement l'épreuve. Mais n'y comptez pas trop à l'avance...)
-- **Lieu**: Table Géante de Bois, au Manoir 4 De La Digue  
-- **Accoutrement**: le mystère plane, mais l'ambiance mafia mi-Méditerranée mi-molette, semble de mise...  
+- **TITRE DU DÉFI**:  "De poudres et de balles!"   
+- **RÈGLES DU JEU**: un bière-pong épique avec des balles singulières, entrecoupé d'une épreuve à bonus les yeux bandés "devine mon épice mon coquin...!"  
+- **LIEU CHOISI**: Table Géante de Bois, au Manoir 4 De La Digue  
+- **ACCOUTREMENT**: le mystère plane, mais l'ambiance mafia mi-Méditerranée mi-molette, semble de mise...  
 
 
